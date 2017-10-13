@@ -5,3 +5,7 @@ body {
 .ui.top.fixed.borderless.inverted.menu {
   background-color: #3A3950;
 }
+
+.ui.fluid.image {
+  margin-bottom: 30px;
+}
